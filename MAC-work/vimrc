@@ -1,0 +1,9 @@
+set term=xterm-256color
+set showcmd
+
+syntax on
+
+filetype plugin indent on
+
+colorscheme koehler
+
